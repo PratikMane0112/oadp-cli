@@ -8,7 +8,6 @@ A kubectl plugin for OpenShift API for Data Protection (OADP) that provides both
 
 > **What it does**: Extends OADP functionality with a unified CLI that supports both cluster-wide Velero operations (admin) and namespace-scoped self-service operations (non-admin users).
 
-
 ## Installation
 
 ### Manual Build and Install
